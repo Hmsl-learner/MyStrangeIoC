@@ -1,0 +1,6 @@
+﻿{
+    "name": "StrangeIoC",
+    "optionalUnityReferences": [
+        "https://www.cnblogs.com/unityzc/p/6182584.html"
+    ]
+}
